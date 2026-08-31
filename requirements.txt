@@ -6,3 +6,4 @@ control
 ipywidgets
 ipympl
 plotly
+anywidget
